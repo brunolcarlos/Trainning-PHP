@@ -15,9 +15,11 @@ and open the template in the editor.
             margin-top: 30px !important; 
             margin-bottom: 30px !important;
         }
+
         #recebeFoto .imgRetorno{
             width: 300px;
         }
+        
         .barra{
             display: none;
         }

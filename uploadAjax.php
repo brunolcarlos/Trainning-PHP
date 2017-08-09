@@ -19,10 +19,11 @@ and open the template in the editor.
         #recebeFoto .imgRetorno{
             width: 300px;
         }
-        
+
         .barra{
             display: none;
         }
+        
     </style>
 </head>
 <body>

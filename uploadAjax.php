@@ -23,7 +23,7 @@ and open the template in the editor.
         .barra{
             display: none;
         }
-        
+
     </style>
 </head>
 <body>
@@ -52,6 +52,7 @@ and open the template in the editor.
             $('#photo').change(function(){
                 $('#recebeFoto').html('');
                 $('.barra').show();
+                $('.progress-bar').width('0%');
                 $('#myForm').ajaxForm({
 
                     url: 'recebe_upload.php',

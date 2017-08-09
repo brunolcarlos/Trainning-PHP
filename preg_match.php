@@ -3,7 +3,7 @@
 // [a-zA-Z_\@.\-]{0,}
 // [a-zA-Z0-9_\@.\-]{0,}
 
-$string = "bruno@cars4alenew.com";
+$string = "sitespomerode@gmail.com";
 
 
 if (preg_match('/^[a-zA-Z0-9_\@.\-]{0,}$/', $string)):
